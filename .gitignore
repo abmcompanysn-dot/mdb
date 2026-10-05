@@ -1,0 +1,7 @@
+.env
+logs/
+STOP
+data/
+node_modules/
+.next/
+bin/
